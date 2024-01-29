@@ -1,5 +1,5 @@
 # Use an official Node runtime as a base image
-FROM node:14-alpine
+FROM node:21.6.0-alpine
 
 # Set the working directory in the container
 WORKDIR /app
@@ -16,8 +16,8 @@ COPY . .
 # Build the React app
 RUN npm run build
 
-# Expose port 7775
-EXPOSE 7775
+# Expose port 3000
+Expose 3000
 
 # Define environment variable
 ENV REACT_APP_API_URL=http://localhost:7775
