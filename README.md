@@ -93,3 +93,4 @@ Secondly, to build the Docker image and then run the container with docker run -
 First of all, thank you for providing this assignment as you say that to learn this part some people has to work on this for a year or more so, that was so exciting to learn secondly, like the first part was exciting my real life experience was bad because me and diogo experienced a lot of struggle because of me and my pc. But, after all that hours we fixed everything and i thought that mess was also important in life because i learned a lot of things about thelocalhost, ports and creating and running docker files and containers. we created git ssh key that is a multifunctional key that will help me in future. Moreover, there were a lot git functions i learned after wathcing the videos that diogo advised me to watch, it was a mixed experience sometimes eveyhting felt easy but sometimes frustrating but, in the end still learned something.
 
 
+# my-react-app
