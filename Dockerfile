@@ -17,7 +17,7 @@ COPY . .
 RUN npm run build
 
 # Expose port 3000
-Expose 3000
+EXPOSE 3000
 
 # Define environment variable
 ENV REACT_APP_API_URL=http://localhost:7775
